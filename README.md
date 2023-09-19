@@ -1,2 +1,8 @@
 # ReverseDNS
-reverses dns lookup an IP
+reverse DNS an IP
+
+# Usage
+    go run rdns.go <ip>
+
+# Build
+    go build rdns.go
